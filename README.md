@@ -16,5 +16,7 @@
 npm install
 npm run serve
 
+运行预览：http://lc.fidt.top:802/
 
-请联系：1070156174@qq.com
+
+请联系：1070156174@qq.com   VX:1070156174
